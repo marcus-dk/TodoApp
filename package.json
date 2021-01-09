@@ -1,7 +1,7 @@
 {
   "name": "todoapp-reactjs",
   "version": "0.1.0",
-  "homepage": "marcus-dk.github.io",
+  "homepage": "https://marcus-dk.github.io/TodoApp",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
